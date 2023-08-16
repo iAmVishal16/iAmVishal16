@@ -17,6 +17,7 @@ iOS, Android Java, React Native, Java, Objective-C, Swift, Jira, Agile, SVN, GIT
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-paliwal-4a779537)
+[![Petreon](https://img.shields.io/badge/petreon-FF424D?style=for-the-badge&logo=petreon&logoColor=white)](https://www.patreon.com/iamvishal16)
 
 <!---
 iAmVishal16/iAmVishal16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
