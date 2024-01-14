@@ -1,8 +1,6 @@
 
 # Hi, I'm Vishal Paliwal! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamvishal16&show_icons=true"/>
-
 ## 🚀 About Me
 I'm a **Lead Mobile Engineer**. 
 - 👀 I’m interested in **Swift**, **Objective C**, **Android** and **React Native** Development.
