@@ -19,10 +19,10 @@ RESTAPIs, **Localhost server** with **NodeJS** etc
 
 ## 🛠 Architectures
 MVC, MVVM, VIPER, UDF, etc
-
+<!---
 ## 🔗 Links
 [![Petreon](https://img.shields.io/badge/petreon-FF424D?style=for-the-badge&logo=petreon&logoColor=white)](https://www.patreon.com/iamvishal16)
-
+--->
 <!---
 iAmVishal16/iAmVishal16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
