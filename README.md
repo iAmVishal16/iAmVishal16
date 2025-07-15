@@ -9,13 +9,15 @@ I'm a **Lead Mobile Engineer**.
 - ✌🏻 V for versatility, adept at learning and exploring diverse **domains**.
 - 📫 How to **reach me**, Email: **paliwalvishal16@gmail.com**
 
-## 🛠 Skills
-iOS, Objective-C, Swift, SwiftUI,
-Android Java, Java, 
-React Native,
-Jira/DevOps, Agile, 
-SVN, GIT, 
-RESTAPIs, **Localhost server** with **NodeJS** etc
+## Skills
+* iOS, Objective-C, Swift, SwiftUI
+* Android: Java, Kotlin, ComposeUI
+* React Native
+* Jira/DevOps, **Agile** methodologies
+* UI/UX design
+* SVN, GIT
+* RESTAPIs
+* Localhost server with **Node.js**
 
 ## 🛠 Architectures
 MVC, MVVM, VIPER, UDF, etc
