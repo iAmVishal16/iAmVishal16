@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a **Lead Mobile Engineer**. 
 - 👀 I’m interested in **Swift**, **Objective C**, **Android** and **React Native** Development.
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently exploring **SwiftUI**
 - 💞️ I’m looking to collaborate on **iOS** and **Android** Development.
 - ✌🏻 V for versatility, adept at learning and exploring diverse **domains**.
 - 📫 How to **reach me**, Email: **paliwalvishal16@gmail.com**
@@ -14,10 +14,11 @@ I'm a **Lead Mobile Engineer**.
 * Android: Java, Kotlin, ComposeUI
 * React Native
 * Jira/DevOps, **Agile** methodologies
-* UI/UX design
+* UI/UX design, Product designer
 * SVN, GIT
 * RESTAPIs
-* Localhost server with **Node.js**
+* Localhost server with **Node.js**,  **ngrok**
+* OpenAI APIs
 
 ## 🛠 Architectures
 MVC, MVVM, VIPER, UDF, etc
