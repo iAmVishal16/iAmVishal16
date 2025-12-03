@@ -12,16 +12,18 @@ I'm a **Lead Mobile Engineer**.
 ## Skills
 * iOS, Objective-C, Swift, SwiftUI
 * Android: Java, Kotlin, ComposeUI
-* React Native
+* React Native, Flutter/dart (Beginner)
 * Jira/DevOps, **Agile** methodologies
 * UI/UX design, Product designer
 * SVN, GIT
 * RESTAPIs
 * Localhost server with **Node.js**,  **ngrok**
 * OpenAI APIs
+* Vercel
+* Supabase, MongoDB, MySQL, Firebase etc
 
 ## 🛠 Architectures
-MVC, MVVM, VIPER, UDF, etc
+MVC, MVVM, MV, VIPER, UDF, etc
 <!---
 ## 🔗 Links
 [![Petreon](https://img.shields.io/badge/petreon-FF424D?style=for-the-badge&logo=petreon&logoColor=white)](https://www.patreon.com/iamvishal16)
