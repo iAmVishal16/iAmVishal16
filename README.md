@@ -18,7 +18,7 @@ I'm a **Lead Mobile Engineer**.
 * SVN, GIT
 * RESTAPIs
 * Localhost server with **Node.js**,  **ngrok**
-* OpenAI APIs
+* OpenAI APIs, Gemini APIs
 * Vercel
 * Supabase, MongoDB, MySQL, Firebase etc
 
